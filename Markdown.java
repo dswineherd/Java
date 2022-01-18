@@ -1,4 +1,4 @@
-public class Challenge {
+public class Markdown {
   public static String markdownParser(String markdown) {
     markdown = markdown.strip();
     final int index = markdown.trim().indexOf(' ');
